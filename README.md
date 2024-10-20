@@ -43,9 +43,6 @@ Feel free to check out my work and connect!</h3>
   <a href="https://instagram.com/_onlyeugene" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -74,6 +71,9 @@ Feel free to check out my work and connect!</h3>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="filter: invert(35%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(90%) contrast(85%);"/>
   </a>
 </p>
 
