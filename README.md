@@ -15,9 +15,9 @@ Feel free to check out my work and connect!</h3>
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=onlyeugene" alt="GitHub Profile Trophy" />
-  </a>
+  </a> -->
 </p>
 
 <p align="left">
