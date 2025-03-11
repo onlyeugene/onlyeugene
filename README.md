@@ -1,107 +1,129 @@
+<h1 align="center">Hi 👋, I'm Eugene Okogun</h1>
+<h3 align="center">Hi there 👋
 
-# 🚀 EUGENE OKOGUN: CODE WIZARD & PUNCHLINE ENTHUSIAST 🚀
+I'm Eugene, a Full-Stack Developer with a passion for turning ideas into reality! 🚀 I specialize in the MERN stack and love recreating pixel-perfect designs. When I'm not coding, you might find me geeking out over new tech, making terrible (but clever) puns, or chasing the perfect cup of coffee ☕.
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+Extraordinaire;JavaScript+Juggler;React+Wrangler;Next.js+Ninja;Coffee-Powered+Code+Machine)
+### What I’m working on:
+- Building sleek, responsive web apps
+- Exploring the latest in Next.js and TypeScript 😏
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU2OXcwdGF0dnkzeGVsaW9jYWJtMGhkd2ZvamFqcXdjY2c0dHRvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" />
+Feel free to check out my work and connect!</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=onlyeugene&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-## 👨‍💻 WHO AM I WHEN I'M NOT DEBUGGING?
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=onlyeugene" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
-```javascript
-const eugene = {
-  location: "Codeverse, Sector 42",
-  title: "Full-Stack Developer & Pun Connoisseur",
-  skills: ["MERN", "Next.js", "TypeScript", "UI/UX"],
-  currentMission: "Converting caffeine into immaculate code",
-  funFact: "Can debug with eyes closed (results may vary)",
-  coffeeLevel: 100,
-  debugMode: true,
-  motto: "If at first you don't succeed, call it version 1.0"
-};
-```
+<p align="left">
+  <a href="https://twitter.com/devehis" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/devehis?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-## 🛠️ MY TECH ARSENAL
+- 💬 **Ask me about:** React, Next.js and Express.
+- 📫 **How to reach me:** [eugeneokogun@gmail.com](mailto:eugeneokogun@gmail.com)
 
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/xycaps_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/eugene-okogun" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://fb.com/eugeneokogun" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/_onlyeugene" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+  </a>
+</p>
 
-  ### 🌟 Frontend Sorcery
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  
-  ### 🏗️ Backend Wizardry
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <strong>Front-End:</strong><br>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="filter: invert(35%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(90%) contrast(85%);"/>
+  </a>
+</p>
 
-  ### 🔧 Dev Tools & Magic Wands
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<p align="left">
+  <strong>Back-End:</strong><br>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
 
-</div>
+<p align="left">
+  <strong>Other Tools:</strong><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyeugene&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onlyeugene&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="Trophy Case" />
-</div>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyeugene&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-## 📊 MY CODING ADVENTURES
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlyeugene&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyeugene&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img width="800em" src="https://github-readme-streak-stats.herokuapp.com/?user=onlyeugene&theme=tokyonight" alt="Ongoing Quest Streak" />
-</div>
-
-## 🚧 CURRENT SIDE QUESTS
-
-- 🔭 Building pixelated interfaces that make designers weep with joy
-- 🧪 Experimenting with Next.js dark magic and TypeScript alchemy
-- 🌟 Hunting for the mythical bug-free code (expedition ongoing since [DATE REDACTED])
-- ☕ Researching the perfect coffee-to-code ratio (critical research)
-
-## 📫 SEND A CARRIER PIGEON
-
-<div align="center">
-  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devehis)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eugene-okogun)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugeneokogun@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_onlyeugene)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/eugeneokogun)
-  
-</div>
-
-## 💭 DEVELOPER WISDOM
-
-<div align="center">
-  
-  > "Why do programmers prefer dark mode? Because light attracts bugs!"
-  
-  > "I don't always test my code, but when I do, I do it in production."
-  
-  > "The best error message is the one that never shows up."
-  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onlyeugene&label=Profile%20views&color=0e75b6&style=flat" alt="Thanks for stopping by!" />
-  
-  ### Thanks for visiting my digital playground! Have a cookie! 🍪
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyeugene&" alt="GitHub Streak" />
+</p>
