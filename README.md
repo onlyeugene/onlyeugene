@@ -127,3 +127,5 @@ Feel free to check out my work and connect!</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyeugene&" alt="GitHub Streak" />
 </p>
+
+make this landing page fun add react native to stack and dont make it cliche please
