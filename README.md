@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugene Okogun</h1>
 <h3 align="center">Hi there 👋
 
-I'm Eugene, a Full-Stack Developer with a passion for turning ideas into reality! 🚀 I specialize in the MERN stack and love recreating pixel-perfect designs. When I'm not coding, you might find me geeking out over new tech, making terrible (but clever) puns, or chasing the perfect cup of coffee ☕.
+I'm Eugene, a Full-Stack Developer with a passion for turning ideas into reality! 🚀 I specialize in the MERN stack and love recreating pixel-perfect designs.
 
 ### What I’m working on:
 - Building sleek, responsive web apps
