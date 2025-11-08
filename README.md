@@ -46,6 +46,7 @@ Feel free to check out my work and connect!</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <strong>Front-End:</strong><br>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -59,6 +60,12 @@ Feel free to check out my work and connect!</h3>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -76,6 +83,7 @@ Feel free to check out my work and connect!</h3>
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="filter: invert(35%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(90%) contrast(85%);"/>
   </a>
 </p>
+
 
 <p align="left">
   <strong>Back-End:</strong><br>
