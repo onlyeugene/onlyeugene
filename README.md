@@ -22,7 +22,7 @@ Feel free to check out my work and connect!</h3>
 
 <p align="left">
   <a href="https://twitter.com/devehis" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/devehis?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/_onlyeugene?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -63,6 +63,10 @@ Feel free to check out my work and connect!</h3>
   <img src="https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxt.js" />
   <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" />
+
+  <!-- Mobile -->
+<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react" />
+
 </p>
 
 <p align="left">
